@@ -1,5 +1,5 @@
 # MASS-Shelter
-Java OOP project that was created during CSE1325, deserves a standalone repository.
+Java Application that allows users to store information on adopting animals.
 
 ##Includes
 - The ability to add/remove 3 choices of species to the shelter.
@@ -9,5 +9,4 @@ Java OOP project that was created during CSE1325, deserves a standalone reposito
 - Customized file type and the ability to save/load one shelter.
 
 ## Notes
-- Nothing too exciting, basic Java UI programming and OOP construction. Do not expect too much out of this program.
-- Special thanks to my wonderful professor from CSE1325!
+  - Basic Java UI programming and OOP construction, very early project.
